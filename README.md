@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas Leão!
 
-<!--
-**lucasleao-dev/lucasleao-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Developer | Spring Boot • SQL • Microsserviços  
+🎓 Pós-graduando em Arquitetura de Software  
+📍 Belém - PA | Brasil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que utilizo
+
+- **Linguagens:** Java, JavaScript, TypeScript  
+- **Frameworks:** Spring Boot, Angular, Ionic  
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Ferramentas:** Git, GitHub, Docker
+
+---
+
+## 📂 Projetos em destaque
+
+🔹 [algacrm-api](https://github.com/lucasleao-dev/algacrm-api) – API REST de gerenciamento de clientes com Spring Boot  
+🔹 [estuda-tec](https://github.com/lucasleao-dev/estuda-tec) – Projeto de estudos front-end com Angular e Ionic
+
+---
+
+## 📫 Contato
+
+📧 lucasleao.ti@gmail.com  
+
+---
+
+_“Em constante evolução e aprendizado. Let's code! 🚀”_
