@@ -20,36 +20,23 @@ Projetos
 
 Site desenvolvido para apresentar a academia, seus planos, horários de funcionamento, localização e canais de atendimento.
 
-"Ver repositório" (https://github.com/lucasleao-dev/sdacademia)
-
 2. Gym Control — Gestão de academia
 
 Projeto voltado ao gerenciamento de atividades e informações de uma academia.
-
-"Ver repositório" (https://github.com/lucasleao-dev/gym-control)
 
 3. SD Academia App
 
 Aplicação desenvolvida como parte do ecossistema digital da SD Academia.
 
-"Ver repositório" (https://github.com/lucasleao-dev/sd-academia-app)
-
 4. FieldOps Platform
 
 Projeto de plataforma para operações, desenvolvido como parte dos meus projetos de software.
-
-"Ver repositório" (https://github.com/lucasleao-dev/fieldops-platform)
 
 ---
 
 Desenvolvimento Back-end
 
-Também mantenho projetos de desenvolvimento utilizando Java e Spring Boot:
-
-- "Microstore User Service" (https://github.com/lucasleao-dev/microstore-user-service)
-- "Product Recommendation Service" (https://github.com/lucasleao-dev/product-recommendation-service)
-- "Review Service" (https://github.com/lucasleao-dev/review-service)
-- "Payment Service" (https://github.com/lucasleao-dev/payment-service)
+Também mantenho projetos de desenvolvimento utilizando Java e Spring Boot, explorando APIs REST, microsserviços, autenticação, persistência de dados e testes automatizados.
 
 ---
 
@@ -83,14 +70,15 @@ Contato
 
 Estou aberto a oportunidades profissionais, projetos e conexões na área de tecnologia.
 
-- 📱 Telefone / WhatsApp: " (91) 98954-6815" (https://wa.me/5591989546815)
-- 📧 E-mail: lucasleao.ti@gmail.com
+- 📱 Telefone / WhatsApp: "(91) 98954-6815" (https://wa.me/5591989546815)
+- 📧 E-mail: "lucasleao.ti@gmail.com" (mailto:lucasleao.ti@gmail.com)
 - 💻 GitHub: "lucasleao-dev" (https://github.com/lucasleao-dev)
 - 🌐 Portfólio: "lucascodesdev.vercel.app" (https://lucascodesdev.vercel.app/)
 
 ---
 
 <div align="center">Lucas Leão
+
 Desenvolvimento de sistemas, tecnologia e aprendizado contínuo.
 
 </div>
