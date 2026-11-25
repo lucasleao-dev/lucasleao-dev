@@ -1,31 +1,96 @@
-# 👋 Olá, eu sou o Lucas Leão!
+Lucas Leão
 
-💻 Java Developer | Spring Boot • SQL • Microsserviços  
-🎓 Pós-graduando em Arquitetura de Software  
-📍 Belém - PA | Brasil
+Analista de Sistemas | Desenvolvedor Back-end
 
----
+Bacharel em Ciência da Computação pela FAPAN e pós-graduando em Engenharia de Software.
 
-## 🚀 Tecnologias que utilizo
+Tenho experiência em Tecnologia da Informação, com atuação em desenvolvimento de sistemas, suporte, banco de dados, testes e manutenção de aplicações.
 
-- **Linguagens:** Java, JavaScript, TypeScript  
-- **Frameworks:** Spring Boot, Angular, Ionic  
-- **Banco de Dados:** MySQL, PostgreSQL  
-- **Ferramentas:** Git, GitHub, Docker
+Trabalho principalmente com Java e Spring Boot, desenvolvendo APIs REST e aplicações baseadas em microsserviços. Também desenvolvo projetos web e aplicações voltadas a necessidades reais, buscando ampliar minha experiência prática em diferentes tecnologias.
 
----
+📍 Belém – PA, Brasil.
 
-## 📂 Projetos em destaque
-
-🔹 [algacrm-api](https://github.com/lucasleao-dev/algacrm-api) – API REST de gerenciamento de clientes com Spring Boot  
-🔹 [estuda-tec](https://github.com/lucasleao-dev/estuda-tec) – Projeto de estudos front-end com Angular e Ionic
+"Portfólio" (https://lucascodesdev.vercel.app/) • "GitHub" (https://github.com/lucasleao-dev)
 
 ---
 
-## 📫 Contato
+Projetos
 
-📧 lucasleao.ti@gmail.com  
+1. SD Academia — Site institucional
+
+Site desenvolvido para apresentar a academia, seus planos, horários de funcionamento, localização e canais de atendimento.
+
+"Ver repositório" (https://github.com/lucasleao-dev/sdacademia)
+
+2. Gym Control — Gestão de academia
+
+Projeto voltado ao gerenciamento de atividades e informações de uma academia.
+
+"Ver repositório" (https://github.com/lucasleao-dev/gym-control)
+
+3. SD Academia App
+
+Aplicação desenvolvida como parte do ecossistema digital da SD Academia.
+
+"Ver repositório" (https://github.com/lucasleao-dev/sd-academia-app)
+
+4. FieldOps Platform
+
+Projeto de plataforma para operações, desenvolvido como parte dos meus projetos de software.
+
+"Ver repositório" (https://github.com/lucasleao-dev/fieldops-platform)
 
 ---
 
-_“Em constante evolução e aprendizado. Let's code! 🚀”_
+Desenvolvimento Back-end
+
+Também mantenho projetos de desenvolvimento utilizando Java e Spring Boot:
+
+- "Microstore User Service" (https://github.com/lucasleao-dev/microstore-user-service)
+- "Product Recommendation Service" (https://github.com/lucasleao-dev/product-recommendation-service)
+- "Review Service" (https://github.com/lucasleao-dev/review-service)
+- "Payment Service" (https://github.com/lucasleao-dev/payment-service)
+
+---
+
+Tecnologias
+
+Back-end: Java, Spring Boot, Spring Data JPA, APIs REST e JWT.
+
+Front-end: JavaScript, TypeScript, React, Angular, HTML5 e CSS3.
+
+Banco de dados: PostgreSQL, Oracle, SQL Server, MySQL e H2.
+
+Testes: JUnit, Mockito e Postman.
+
+Ferramentas: Git, GitHub, GitLab, Docker e CI/CD.
+
+Dados: SQL e Power BI.
+
+---
+
+Formação
+
+Bacharelado em Ciência da Computação
+Faculdade Pan Amazônia — FAPAN.
+
+Pós-graduação em Engenharia de Software
+Em andamento.
+
+---
+
+Contato
+
+Estou aberto a oportunidades profissionais, projetos e conexões na área de tecnologia.
+
+- 📱 Telefone / WhatsApp: " (91) 98954-6815" (https://wa.me/5591989546815)
+- 📧 E-mail: lucasleao.ti@gmail.com
+- 💻 GitHub: "lucasleao-dev" (https://github.com/lucasleao-dev)
+- 🌐 Portfólio: "lucascodesdev.vercel.app" (https://lucascodesdev.vercel.app/)
+
+---
+
+<div align="center">Lucas Leão
+Desenvolvimento de sistemas, tecnologia e aprendizado contínuo.
+
+</div>
