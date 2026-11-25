@@ -1,4 +1,4 @@
-Lucas Leão
+👋 Lucas Leão
 
 Analista de Sistemas | Desenvolvedor Back-end
 
@@ -10,11 +10,11 @@ Trabalho principalmente com Java e Spring Boot, desenvolvendo APIs REST e aplica
 
 📍 Belém – PA, Brasil.
 
-"Portfólio" (https://lucascodesdev.vercel.app/) • "GitHub" (https://github.com/lucasleao-dev)
+"🌐 Portfólio" (https://lucascodesdev.vercel.app/) • "💻 GitHub" (https://github.com/lucasleao-dev)
 
 ---
 
-Projetos
+🚀 Projetos
 
 1. SD Academia — Site institucional
 
@@ -34,29 +34,61 @@ Projeto de plataforma para operações, desenvolvido como parte dos meus projeto
 
 ---
 
-Desenvolvimento Back-end
+💻 Desenvolvimento Back-end
 
 Também mantenho projetos de desenvolvimento utilizando Java e Spring Boot, explorando APIs REST, microsserviços, autenticação, persistência de dados e testes automatizados.
 
 ---
 
-Tecnologias
+🛠️ Tecnologias e ferramentas
 
-Back-end: Java, Spring Boot, Spring Data JPA, APIs REST e JWT.
+Back-end
 
-Front-end: JavaScript, TypeScript, React, Angular, HTML5 e CSS3.
+- Java
+- Spring Boot
+- Spring Data JPA
+- APIs REST
+- JWT
 
-Banco de dados: PostgreSQL, Oracle, SQL Server, MySQL e H2.
+Front-end
 
-Testes: JUnit, Mockito e Postman.
+- JavaScript
+- TypeScript
+- React
+- Angular
+- HTML5
+- CSS3
 
-Ferramentas: Git, GitHub, GitLab, Docker e CI/CD.
+Banco de dados
 
-Dados: SQL e Power BI.
+- PostgreSQL
+- Oracle Database
+- SQL Server
+- MySQL
+- H2 Database
+
+Testes
+
+- JUnit
+- Mockito
+- Postman
+
+Ferramentas e integração
+
+- Git
+- GitHub
+- GitLab
+- Docker
+- CI/CD
+
+Dados e Business Intelligence
+
+- SQL
+- Power BI
 
 ---
 
-Formação
+🎓 Formação acadêmica
 
 Bacharelado em Ciência da Computação
 Faculdade Pan Amazônia — FAPAN.
@@ -66,7 +98,7 @@ Em andamento.
 
 ---
 
-Contato
+📫 Contato
 
 Estou aberto a oportunidades profissionais, projetos e conexões na área de tecnologia.
 
